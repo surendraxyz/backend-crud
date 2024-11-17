@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# Build directories
+build/
+dist/
+
+# Optional: Ignore test directories or files (if you have any)
+test/
+
+# IDE files
+.vscode/
+.idea/
+
+# Package lock files (optional)
+package-lock.json
+yarn.lock
